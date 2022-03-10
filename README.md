@@ -6,7 +6,7 @@ Este repositório concentra uma lista, de certificados os quais já cursei ou es
 Curso HTML5 e CSS3: módulo 1 de 5 - módulo 1
 ------------------
 **Plataforma:** [Curso em Vídeo](https://www.cursoemvideo.com/course/python-3-mundo-2/)<br>
-**Emitido em:** 05 de Março de 2021 <br>
+**Emitido em:** 05 de Março de 2022 <br>
 **Código do certificado:** 68F60-C9E9-5<br>
 [Visualizar certificado] [HTML e CSS.pdf](https://github.com/luanhtorres/meus-certificados/files/8227525/HTML.e.CSS.pdf) <br>
 
